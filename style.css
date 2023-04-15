@@ -1,0 +1,80 @@
+.h2 {
+    color: darkolivegreen;
+    text-align: center;
+}
+
+.h1 {
+    text-align: center;
+}
+
+.ourmission {
+    color: darkolivegreen;
+    text-align: center;
+}
+
+.ourvalue {
+    color: darkolivegreen;
+    text-align: center;
+}
+
+.para {
+    color: darkolivegreen;
+    text-align: center;
+}
+
+.coma {
+    color: darkolivegreen;
+    text-align: center;
+}
+
+.lovenature {
+    color: darkolivegreen;
+    text-align: center;
+}
+
+.name {
+    color: darkolivegreen;
+}
+
+.customize {
+    position: fixed;
+    bottom: 450px;
+    right: 26px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+
+}
+
+.customize:hover {
+    background-color: rgb(108, 71, 194);
+}
+
+header {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeiJfIKP_10fGUy0lFxOUkoL2q1cJi9fgu0w&usqp=CAU);
+}
+
+.nobtn {
+    background-color: lightpink;
+}
+
+.TylerMoor {
+    color: darkolivegreen;
+}
+
+.home {
+    color: darkolivegreen;
+}
+
+.about {
+    color: darkolivegreen;
+}
+
+.services {
+    color: darkolivegreen
+}
+
+.contact {
+    color: darkolivegreen
+}
